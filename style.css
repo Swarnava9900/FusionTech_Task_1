@@ -17,6 +17,7 @@
     --text-color: #fff;
     --second-color: #ccc;
     --main-color: #F2613F;
+    --second-text-color: #ff4e19;
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
@@ -130,7 +131,7 @@ section{
 .home-text h1{
     font-size: var(--big-font);
     font-weight: 700;
-    color: var(--text-color);
+    color: var(--second-text-color);
     line-height: 1.1;
     margin: 0 0 8px;
 }
